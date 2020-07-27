@@ -1,1 +1,1 @@
-I'm Pedro Tauzen, and this is my first git project!
+This is Pedro Tauze's first git project!
